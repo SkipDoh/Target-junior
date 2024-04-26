@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\git_exercise\txt2\bin\Debug\txt2.exe.config
+C:\Users\user\Desktop\git_exercise\txt2\bin\Debug\txt2.exe
+C:\Users\user\Desktop\git_exercise\txt2\bin\Debug\txt2.pdb
+C:\Users\user\Desktop\git_exercise\txt2\obj\Debug\txt2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\git_exercise\txt2\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\git_exercise\txt2\obj\Debug\App.g.cs
+C:\Users\user\Desktop\git_exercise\txt2\obj\Debug\txt2_MarkupCompile.cache
+C:\Users\user\Desktop\git_exercise\txt2\obj\Debug\txt2_MarkupCompile.lref
+C:\Users\user\Desktop\git_exercise\txt2\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\git_exercise\txt2\obj\Debug\txt2.g.resources
+C:\Users\user\Desktop\git_exercise\txt2\obj\Debug\txt2.Properties.Resources.resources
+C:\Users\user\Desktop\git_exercise\txt2\obj\Debug\txt2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\git_exercise\txt2\obj\Debug\txt2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\git_exercise\txt2\obj\Debug\txt2.exe
+C:\Users\user\Desktop\git_exercise\txt2\obj\Debug\txt2.pdb

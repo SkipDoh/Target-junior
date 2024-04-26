@@ -1,0 +1,29 @@
+﻿<Window x:Class="txt2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:txt2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="856">
+    
+        <Grid Margin="0,0,10,-229">
+            <WrapPanel Height="NaN" Margin="88,239,158,-49" Width="NaN">
+                <Label Content="&#xA;        A" Background="Yellow" Height="70" Width="70"/>
+                <Label Content="&#xA;        B" Background="Red" Height="70" Width="70"/>
+                <Label Content="&#xA;        C"  Background="Green"  Height="70" Width="70" />
+                <Label Content="&#xA;        D"  Background="Blue"  Height="70" Width="70" />
+                <Label Content="&#xA;        E"  Background="Gray"  Height="70" Width="70" />
+                <Label Content="&#xA;        F"  Background="Beige"  Height="70" Width="70" />
+            </WrapPanel>
+
+            <WrapPanel Height="NaN" Margin="246,76,0,32" Width="NaN">
+                <Label Content="&#xA;        A" Background="Yellow" Height="70" Width="70"/>
+                <Label Content="&#xA;        B" Background="Red" Height="70" Width="70"/>
+                <Label Content="&#xA;        C"  Background="Green"  Height="70" Width="70" />
+                <Label Content="&#xA;        D"  Background="Blue"  Height="70" Width="70" />
+                <Label Content="&#xA;        E"  Background="Gray"  Height="70" Width="70" />
+                <Label Content="&#xA;        F"  Background="Beige"  Height="70" Width="70" />
+            </WrapPanel>
+        </Grid>
+</Window>
